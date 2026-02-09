@@ -23,4 +23,4 @@ O **FastMenu** é uma solução leve e moderna para cardápios digitais, focada 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
+   git clone ([https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/marcosfrontend-dev/fastmenu-cardapio))
